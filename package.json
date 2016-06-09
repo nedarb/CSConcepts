@@ -1,0 +1,19 @@
+{
+  "name": "csconcepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedarb/CSConcepts.git"
+  },
+  "author": "Braden Hays",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedarb/CSConcepts/issues"
+  },
+  "homepage": "https://github.com/nedarb/CSConcepts#readme"
+}
